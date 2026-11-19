@@ -1,6 +1,6 @@
-<a href="https://github.com/MaweuPaul/groundwork"><img src="assets/hero.svg" width="100%" alt="Hi, I&#39;m Paul. I&#39;m building groundwork: it checks land claims against satellite, rainfall and elevation data and seals every result." /></a>
+<img src="assets/hero.svg" width="100%" alt="Hi, I&#39;m Paul. I build systems you can check: land claims, decision queues, backtests." />
 
-<p align="right"><sub><a href="https://groundwork-three-chi.vercel.app">groundwork live demo ↗</a> · <a href="https://github.com/MaweuPaul/groundwork/blob/main/docs/design/multi-analysis.md">how the evidence chain works ↗</a></sub></p>
+<p align="right"><sub><a href="https://github.com/MaweuPaul/groundwork">groundwork ↗</a> · <a href="https://github.com/MaweuPaul/Marshal">Marshal ↗</a> · <a href="https://github.com/MaweuPaul/smc-strategy-lab">smc-strategy-lab ↗</a></sub></p>
 
 <img src="assets/label-projects.svg" width="100%" alt="More projects" />
 
