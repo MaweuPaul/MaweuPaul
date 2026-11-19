@@ -1,4 +1,4 @@
-<a href="https://github.com/MaweuPaul/groundwork"><img src="assets/hero.svg" width="100%" alt="Paul Maweu: trust the pixels, not the paperwork. groundwork checks land claims against satellite data and seals the evidence." /></a>
+<a href="https://github.com/MaweuPaul/groundwork"><img src="assets/hero.svg" width="100%" alt="Hi, I&#39;m Paul. I&#39;m building groundwork: it checks land claims against satellite, rainfall and elevation data and seals every result." /></a>
 
 <p align="right"><sub><a href="https://groundwork-three-chi.vercel.app">groundwork live demo ↗</a> · <a href="https://github.com/MaweuPaul/groundwork/blob/main/docs/design/multi-analysis.md">how the evidence chain works ↗</a></sub></p>
 
@@ -22,4 +22,4 @@
   <a href="https://github.com/MaweuPaul/phase404"><img src="assets/p-phase404.svg" width="32%" alt="phase404" /></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Don&#39;t trust this profile either. Every card links to the code." />
+<img src="assets/footer.svg" width="100%" alt="Don&#39;t take my word for any of it. Every card links to the code." />
